@@ -46,3 +46,8 @@ Storage Capacity:
 Local storage provides more storage space, but be cautious not to exceed browser limits (usually around 5-10 MB).
 Session storage is limited to the current session, making it suitable for smaller datasets.
 Cross-Origin Considerations: - Both local and session storage are subject to the same-origin policy, limiting access to data from different domains for security reasons.
+=============================================================================================================================================================================================================
+custom hook related example with chatgpt
+https://chatgpt.com/share/67137f76-6800-8011-add2-8a4c65f86c3f
+
+===============================================================================================================================================================================================================
